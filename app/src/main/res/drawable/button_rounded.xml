@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- res/drawable/button_rounded.xml -->
+    <?xml version="1.0" encoding="utf-8"?>
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <solid android:color="#6200EE"/> <!-- Button background color -->
+        <corners android:radius="16dp"/> <!-- Border radius -->
+        <stroke
+            android:color="#3700B3" <!-- Border color -->
+        android:width="2dp"/> <!-- Border width -->
+    </shape>
+
+</selector>
